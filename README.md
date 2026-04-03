@@ -1,2 +1,3 @@
-# infinityvoid
-gojo's domain simulation on computer
+Make it for fun.
+That's it.
+I don't make anything for money.
